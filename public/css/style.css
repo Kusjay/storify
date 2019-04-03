@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.page-footer {
+  background-color: #659bad;
+}
+
+.grey.darken-3 {
+  background-color: #659bad !important;
+}
+
+.nav-wrapper .fa-bars {
+  font-size: 25px;
+}
+
+footer {
+  margin-top: 20px;
+}
